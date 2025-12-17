@@ -1,5 +1,5 @@
 {
-    "name": "cyber-duck/silverstripe-seo",
+    "name": "joelgrondrup/silverstripe-seo",
     "description": "A SilverStripe module to optimise the Meta, crawling, indexing, and sharing of your website content",
     "type": "silverstripe-vendormodule",
     "homepage": "http://github.com/cyber-duck/silverstripe-seo",
